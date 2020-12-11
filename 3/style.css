@@ -1,0 +1,36 @@
+section{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  font-variant: inherit;
+}
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.Box{
+  background: fixed;
+  background-color: black;
+  color: red; 
+  border: 3px solid crimson;
+}
+.Box ul li{
+  color: blue;
+}
+h1 li{
+  text-align: center;
+}
+li{
+  display: inline;
+}
+footer{
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  margin: 20px 0 20px 0;
+  padding: 20px;
+}
+span{
+  color: crimson;
+}
